@@ -17,4 +17,4 @@
 
 **使用示例**：
 
-`python main.py -u "https://example.com/video/index.m3u8" -n 16 -o my_video -c "session=123" -sp "/path/to/save" `
+`python m3u8_downloader.py -u "https://example.com/video/index.m3u8" -n 16 -o my_video -c "session=123" -sp "/path/to/save" `
